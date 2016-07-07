@@ -1,0 +1,28 @@
+{
+  "name": "platzigram",
+  "version": "0.1.0",
+  "description": "Comparte tus fotos con el resto de la comunidad",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cresponline/Platzigram.git"
+  },
+  "keywords": [
+    "platzi",
+    "javascript",
+    "curso-definitivo",
+    "platzigram"
+  ],
+  "author": "screspo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cresponline/Platzigram/issues"
+  },
+  "homepage": "https://github.com/cresponline/Platzigram#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
